@@ -1,3 +1,17 @@
+# PASSGEN - Password Generator App 🔐
+
+PASSGEN is a simple and secure password generator Android application built with React Native and Formik. It allows users to customize and generate strong passwords based on their preferences.
+
+## Features
+
+- Generate passwords with varying length.
+- Choose to include lowercase, uppercase, symbols, and numbers in the password.
+- Copy generated password to the clipboard.
+- Share passwords easily.
+
+![PassGen](https://github.com/Sowham-3098/PassGen/assets/95470604/99764c43-8b2e-4bf6-8592-7f82c7313ef0)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
